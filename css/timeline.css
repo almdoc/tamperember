@@ -66,6 +66,7 @@
 .timeline ol li:nth-child(odd) div {
   top: -16px;
   transform: translateY(-100%);
+  padding-right: 0px;
 }
 
 .timeline ol li:nth-child(odd) div::before {
@@ -80,6 +81,7 @@
   top: -8px;
   border-width: 8px 0 0 8px;
   border-color: transparent transparent transparent black;
+  padding-right: 0px;
 }
 
 .timeline time {
