@@ -1,3 +1,9 @@
+.timeline *, .timeline *::before, .timeline *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .timeline {
   white-space: nowrap;
   overflow-x: hidden;
